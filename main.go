@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/axelsomerseth/varsity-dev-challenge/backend"
+	"github.com/axelsomerseth/golang-plus-react/backend"
 )
 
 func main() {

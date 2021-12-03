@@ -1,4 +1,4 @@
-module github.com/axelsomerseth/varsity-dev-challenge
+module github.com/axelsomerseth/golang-plus-react
 
 go 1.17
 

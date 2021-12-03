@@ -7,7 +7,7 @@ import (
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 
-	"github.com/axelsomerseth/varsity-dev-challenge/backend/config"
+	"github.com/axelsomerseth/golang-plus-react/backend/config"
 )
 
 var Connection *gorm.DB

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/axelsomerseth/varsity-dev-challenge/backend/config"
-	"github.com/axelsomerseth/varsity-dev-challenge/backend/db"
-	"github.com/axelsomerseth/varsity-dev-challenge/backend/router"
+	"github.com/axelsomerseth/golang-plus-react/backend/config"
+	"github.com/axelsomerseth/golang-plus-react/backend/db"
+	"github.com/axelsomerseth/golang-plus-react/backend/router"
 )
 
 func Start() {
